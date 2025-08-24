@@ -1,2 +1,3 @@
 tesseract-ocr
 tesseract-ocr-tam
+libgl1-mesa-glx
